@@ -5,6 +5,8 @@ The program maps to music live data relating to the computer user,
 their computer and the ways in which the two interact, utilising appropriated sonification
 methods applied to algorithmic music.
 
+![project](https://user-images.githubusercontent.com/90904328/148803085-90237dbd-e7a5-42f0-a6ac-d280c270a942.png)
+
 ## HOW TO RUN THE COMPUTER MUSIC PROGRAM:
 *Operating system:
 Windows 10 or Mac OSX El Capitan (or newer)*
