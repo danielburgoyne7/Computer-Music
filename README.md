@@ -1,4 +1,10 @@
 # Computer-Music
+'Computer Music' (2020-21) is an algorithmic, data-driven music program, written in Max and Python 3.7.
+
+The program maps to music live data relating to the computer user,
+their computer and the ways in which the two interact, utilising appropriated sonification
+methods applied to algorithmic music.
+
 ## HOW TO RUN THE COMPUTER MUSIC PROGRAM:
 *Operating system:
 Windows 10 or Mac OSX El Capitan (or newer)*
@@ -35,3 +41,6 @@ Music/other/send_cpu_data.py’.
 automatically open.
 KNOWN BUG:
 pynput does not send keyboard ASCII values to Max on Mac OSX El Capitan 10.11.6
+
+
+*Project created by Daniel Burgoyne*
