@@ -10,8 +10,8 @@ Here is a video demonstration: https://youtu.be/4q_IDzwAY8o
 ![cm2](https://user-images.githubusercontent.com/90904328/149199805-93b75ccb-e6a3-46b6-a797-ba649b6824f4.png)
 
 ## HOW TO RUN THE COMPUTER MUSIC PROGRAM:
-*Operating system:
-Windows 10 or Mac OSX El Capitan (or newer)*
+*Operating systems tested on:
+Windows 10, Mac OSX El Capitan*
 
 Required software:
 - Max 8
