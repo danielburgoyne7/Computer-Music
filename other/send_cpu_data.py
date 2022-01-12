@@ -27,10 +27,10 @@ def GetCPUIdleDelta(prev_idle):
   idle_delta = current_idle - prev_idle
   return current_idle,idle_delta
 
-prev_time = time.time() #init transmission timer
 idle = psutil.cpu_times().idle #init idle time
 while True:
-  if (time.time() - prev_time) >= 0.05: #send at approx 20Hz
-    idle,idle_delta = GetCPUIdleDelta(idle)
-    Transmit(idle_delta) #send all data thru OSC
+  time.sleep(0.05)
+  idle,idle_delta = GetCPUIdleDelta(idle)
+  Transmit(idle_delta) #send all data thru OSC
+
     prev_time = time.time()
