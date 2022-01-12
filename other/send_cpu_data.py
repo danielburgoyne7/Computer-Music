@@ -32,5 +32,3 @@ while True:
   time.sleep(0.05)
   idle,idle_delta = GetCPUIdleDelta(idle)
   Transmit(idle_delta) #send all data thru OSC
-
-    prev_time = time.time()
