@@ -1,5 +1,5 @@
 # Computer-Music
-'Computer Music' (2020-21) is an algorithmic, data-driven music program, written in Max and Python 3.7.
+'Computer Music' is an algorithmic, data-driven music program, written in Max and Python 3.7.
 
 The program maps to music live data relating to the computer user,
 their computer and the ways in which the two interact, utilising appropriated sonification
