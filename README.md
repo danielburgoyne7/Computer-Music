@@ -7,8 +7,6 @@ methods applied to algorithmic music.
 
 The program is under further development.
 
-Here is a video demonstration: https://youtu.be/4q_IDzwAY8o
-
 ![cm2](https://user-images.githubusercontent.com/90904328/149199805-93b75ccb-e6a3-46b6-a797-ba649b6824f4.png)
 
 ## HOW TO RUN THE COMPUTER MUSIC PROGRAM:
